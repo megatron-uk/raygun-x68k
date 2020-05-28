@@ -2,7 +2,7 @@
 
 ![Ray-Gun title](screenshots/title.png)
 
-## General Notes
+# General Notes
 
 *"Georgie(1) is a young man who lives with his fiancee Miria(2) in the quiet town of Lakeside, repairing large combat robots which are strangely called "steroids"(3). One day he discovers several such steroids in the forest, and as he decides to inspect them, unknown flying steroids kidnap Miria. Now Georgie has to pilot a steroid himself and to rescue his beloved one.*
 
@@ -17,6 +17,11 @@ Description from [Mobygames.com](https://www.mobygames.com/game/sharp-x68000/ray
 Ray Gun is a fairly early/simplistic RPG (or *roll* playing game, as the Engrish on the title exclaims!) game for the NEC PC-88, MSX and Sharp X68000.
 
 This is my attempt to translate the content of the game to English. Why? Well it's a pretty simple game, the text is (mainly) stored uncompressed and in standard S-JIS form and I thought it would be fun to try something that doesn't appear to be very well known!
+
+## Nudity!
+
+Ray-Gun, as with many late-80's through early 90's RPG games on the aforementioned computers contains an element of nudity. Now, the content is fairly tame by most standards but this game is *not for children*, nor should it be considered safe for work.
+
 
 ## Spoilers!
 
@@ -42,6 +47,19 @@ Unless otherwise noted, all text is in Shift-JIS format and represented by two b
 I am not a Japanese speaker, neither can I read Hiragana, Katakana nor Kanji. All of the translations I will make in this exercise will be primarily sourced from machine translation, dictionary lookup or the [walkthrough guide](https://www.giantbomb.com/ray-gun/3030-38838/guide/) for non-Japanese speakers, so bear that in mind.
 
 It won't be a simple one-to-one replacement though; the text will be extracted, studied and re-inserted so that it makes sense - no *"set us up the bomb!"*, as long as I can help it!
+
+---
+
+# Steps for Translation
+
+  1. Identify all of the data files which contain translatable text.
+  2. Extract the Japanese strings from the above files and do an initial machine translation.
+  3. Rewrite the machine translation to make sense, standardise and fix naming conventions and other story elements.
+  4. Reinsert fixed text back in to data files.
+
+For each data file found, there is an individual status summary listed against it in the *Disk Content Overview* section.
+
+At present, we are working on (1) and (2), though where it is obvious, I am making small edits to (3) as I go (fixing glaring translation typos, for example).
 
 ---
 
@@ -73,7 +91,7 @@ All the text in this file relates to that animated intro.
 
 [START.MES](csv/disk1/START.MES.csv) - Japanese to English mapping CSV
 
-**Status: **
+Status:
 
   * Japanese text extraction: 100%
   * Literal English text: 100%
@@ -90,7 +108,7 @@ Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
 
 [FL1_1.MES](csv/disk1/FL1_1.MES.csv) - Japanese to English mapping CSV
 
-**Status: **
+Status:
 
   * Japanese text extraction: 100%
   * Literal English text: 100%
@@ -105,15 +123,17 @@ Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
 
 ### Disk 1 - FL1_5.MES
 
+This data file contains the text which is shown whilst talking to the NPC "Sherri", the first person you encounter on starting the game (see below for the state in which you encounter her).
+
 ![Start text](screenshots/sherri.png)
 
-This data file contains the text which is shown whilst talking to the NPC "Sherri", the first person you encounter on starting the game, immediately after leaving the introduction animation and before you even get control over your in-game character.
+This encounter is immediately after leaving the introduction animation and before you even get control over your in-game character.
 
 Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
 
-[FL1_1.MES](csv/disk1/FL1_1.MES.csv) - Japanese to English mapping CSV
+[FL1_5.MES](csv/disk1/FL1_1.MES.csv) - Japanese to English mapping CSV
 
-**Status: **
+Status:
 
   * Japanese text extraction: 100%
   * Literal English text: 100%
