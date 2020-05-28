@@ -1,17 +1,26 @@
 # Ray-Gun for the Sharp X68000 - English Translation
 
+![Ray-Gun title](screenshots/title.png)
+
 ## General Notes
 
-*"Georgie is a young man who lives with his fiancee Miria in the quiet town of Lakeside, repairing large combat robots which are strangely called "steroids". One day he discovers several such steroids in the forest, and as he decides to inspect them, unknown flying steroids kidnap Miria. Now Georgie has to pilot a steroid himself and to rescue his beloved one.*
+*"Georgie(1) is a young man who lives with his fiancee Miria(2) in the quiet town of Lakeside, repairing large combat robots which are strangely called "steroids"(3). One day he discovers several such steroids in the forest, and as he decides to inspect them, unknown flying steroids kidnap Miria. Now Georgie has to pilot a steroid himself and to rescue his beloved one.*
 
 *Ray Gun is a traditional Japanese RPG, with top-down navigation, random turn-based battles viewed from first-person perspective, etc. The combat is usually between the player's steroids and enemy ones. Steroids can attack normally or execute special techniques. Many cut scenes feature nudity."*
 
 Description from [Mobygames.com](https://www.mobygames.com/game/sharp-x68000/ray-gun)
 
+  * *(1) Georgie? I'd suggest George.*
+  * *(2) Miria? Milia seems more likely.*
+  * *(3) Steroid? Really??? I think we may need to change that...*
 
-Ray Gun is a fairly early/simplistic RPG game for the NEC PC-88, MSX and Sharp X68000.
+Ray Gun is a fairly early/simplistic RPG (or *roll* playing game, as the Engrish on the title exclaims!) game for the NEC PC-88, MSX and Sharp X68000.
 
 This is my attempt to translate the content of the game to English. Why? Well it's a pretty simple game, the text is (mainly) stored uncompressed and in standard S-JIS form and I thought it would be fun to try something that doesn't appear to be very well known!
+
+## Spoilers!
+
+There are some minor spoilers in this document - mainly (pixelated) images of some of the people you meet and/or locations. However I have tried to keep the amount of images shown to a minimum (there's generally one per text/dialogue/asset file to indicate which area of the game the data relates to) and they are pixellated to hide any not-safe-for-work content.
 
 ## Booting & Secret Menu
 
@@ -36,21 +45,21 @@ It won't be a simple one-to-one replacement though; the text will be extracted, 
 
 ---
 
-# Disk Overview
+# Disk Content Overview
 
 ## Disk A / Disk 1
 
-Contents:
+Contents (in root folder, unless otherwise noted):
 
   * DISKNO - Contains the bytes 0x00 0x1A
   * COMMAND.X, HUMAN.SYS, AUTOEXEC.BAT - basic Human68k OS (this is a bootable floppy)
   * AI.X, CSS2.X, JISIN.X - The game executables.
-  * .MES Files
-  * .ATR Files
-  * .DAT Files
-  * .PR7 Files
-  * ANI/.ANI Files
-  * PIC/.PR7 Files
+  * .MES Files - The main source of dialogue and text.
+  * .ATR Files - Unknown
+  * .DAT Files - Unknown
+  * GAMEN.PR7 - Image data
+  * ANI/.ANI Files - Some sort of data format that animates between .PR7 image files.
+  * PIC/.PR7 Files - Image data
 
 ### Disk 1 - START.MES
 
@@ -58,11 +67,73 @@ This data file contains the text which is shown at the beginning of the game, im
 
 ![Start text](screenshots/start.png)
 
-The section continues through several animated images, including those of your girlfriend being kidnapped by the bad guys of the game. The game proper then begins, with you dropped onto the overworld map. At this point START.MES is no longer used.
+The section continues through many scrolling/animated images, including those of your girlfriend being kidnapped by the bad guys of the game. The game proper then begins, with you dropped onto the overworld map. At this point START.MES is no longer used.
 
 All the text in this file relates to that animated intro.
 
 [START.MES](csv/disk1/START.MES.csv) - Japanese to English mapping CSV
+
+**Status: **
+
+  * Japanese text extraction: 100%
+  * Literal English text: 100%
+  * Rewritten English text: 5%
+  * Reinsertion progress: 0%
+
+### Disk 1 - FL1_1.MES
+
+This data file contains the text conversations with the NPC "Moon", who you meet on the first level. 
+
+Only one image/animation loading sequence is mentioned in the entire file. This, presumably, is the animation of "Moon" speaking to the player.
+
+Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
+
+[FL1_1.MES](csv/disk1/FL1_1.MES.csv) - Japanese to English mapping CSV
+
+**Status: **
+
+  * Japanese text extraction: 100%
+  * Literal English text: 100%
+  * Rewritten English text: 0%
+  * Reinsertion progress: 0%
+
+### Disk 1 - FL1_2.MES
+
+### Disk 1 - FL1_3.MES
+
+### Disk 1 - FL1_4.MES
+
+### Disk 1 - FL1_5.MES
+
+![Start text](screenshots/sherri.png)
+
+This data file contains the text which is shown whilst talking to the NPC "Sherri", the first person you encounter on starting the game, immediately after leaving the introduction animation and before you even get control over your in-game character.
+
+Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
+
+[FL1_1.MES](csv/disk1/FL1_1.MES.csv) - Japanese to English mapping CSV
+
+**Status: **
+
+  * Japanese text extraction: 100%
+  * Literal English text: 100%
+  * Rewritten English text: 0%
+  * Reinsertion progress: 0%
+
+### Disk 1 - FL1_6.MES
+
+### Disk 1 - FL1_7.MES
+
+### Disk 1 - FL1_8.MES
+
+### Disk 1 - INIT.MES
+
+This data file contains text strings related to the level/floor select system.
+
+  * Japanese text extraction: 0%
+  * Literal English text: 0%
+  * Rewritten English text: 0%
+  * Reinsertion progress: 0%
 
 ---
 
@@ -73,12 +144,22 @@ All the text in this file relates to that animated intro.
   * MUSIC.X - FM Synth driver to playback the Ray Gun music tracks
   * RAY_GUN.PCM - ???
   * START.MES - Text for the secret menu and music test screens
-  * ANI/.ANI Files
-  * PIC/.PR7 Files
+  * ANI/.ANI Files - Image data 
+  * PIC/.PR7 Files - Animation data
+
+As noted earlier, if this disk is used to boot, the *Secret Menu* will be shown, rather than the normal game start screen.
+
+Beyond the single *Secret Menu* text, there is no dialogue to extract or translate on Disk 2, it contains image/animation data only.
+
+---
 
 ## Disk C / Disk 3
 
   * DISKNO - Contains the bytes 0x02 0x1A
   * START.MES - 
-  * ANI/.ANI Files
-  * PIC/.PR7 Files
+  * ANI/.ANI Files - Image data 
+  * PIC/.PR7 Files - Animation data
+
+This is not a bootable disk.
+
+Beyond the single *Secret Menu* text (which is identical to that found on Disk 2), there is no dialogue to extract or translate on Disk 3, it contains image/animation data only.
