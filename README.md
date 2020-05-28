@@ -131,7 +131,7 @@ This encounter is immediately after leaving the introduction animation and befor
 
 Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
 
-[FL1_5.MES](csv/disk1/FL1_1.MES.csv) - Japanese to English mapping CSV
+[FL1_5.MES](csv/disk1/FL1_5.MES.csv) - Japanese to English mapping CSV
 
 Status:
 
