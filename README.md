@@ -89,6 +89,18 @@ The section continues through many scrolling/animated images, including those of
 
 All the text in this file relates to that animated intro.
 
+The maximum text display width during the opening sequence is 30 characters. If you attempt to display a string longer than that length you end up with text cut off from the line it should be displayed on, and instead left *floating* at the bottom edge of the screen (see below for example).
+
+![Truncated at 30 characters](screenshots/start_truncated.png)
+
+The `inject.py` utility can use a *line length* parameter suffixed to the script csv file (each line can have a unique value, as different scenes may have different display limits) to determine if the inserted text will overflow. If the text is beyond this limit it will automatically insert line breaks. So instead of the above, you get a more presentable version (see below).
+
+![Wrapped at 30 characters](screenshots/start_wrapped.png)
+
+The interactive scenes (basically, you push a button to continue reading, unlike all the previous scenes which were essentially an automatic slideshow) have a different text display routine. For some reason whilst displaying, they scroll upwards and overwrite the contents of the current image (see below). This needs some investigation.
+
+![Wrapped at 30 characters](screenshots/start_overwrite.png)
+
 [START.MES](csv/disk1/START.MES.csv) - Japanese to English mapping CSV
 
 Status:
