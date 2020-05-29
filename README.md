@@ -108,7 +108,7 @@ Status:
   * Japanese text extraction: 100%
   * Literal English text: 100%
   * Rewritten English text: 5%
-  * Reinsertion progress: 0%
+  * Reinsertion progress: 75%
 
 ### Disk 1 - FL1_1.MES
 
