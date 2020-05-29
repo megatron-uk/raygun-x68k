@@ -117,6 +117,21 @@ Status:
 
 ### Disk 1 - FL1_2.MES
 
+This file contains the text dialogue with the NPC "Leila", who, again, you meet on the first level.
+
+Only one image loading sequence is mentioned in the entire file. This, presumably, is the image of "Leila" speaking to the player.
+
+Every string in this file is seperated by a single delimiter type: `0xA6 0xAA`.
+
+[FL1_2.MES](csv/disk1/FL1_2.MES.csv) - Japanese to English mapping CSV
+
+Status:
+
+  * Japanese text extraction: 100%
+  * Literal English text: 100%
+  * Rewritten English text: 0%
+  * Reinsertion progress: 0%
+
 ### Disk 1 - FL1_3.MES
 
 ### Disk 1 - FL1_4.MES
