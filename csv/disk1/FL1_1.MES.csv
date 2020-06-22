@@ -1,43 +1,43 @@
-FILENAME;ID;START_POS;IS_HEX;TEXT_ORIGINAL;TEXT_LITERAL_ENGLISH;TEXT_CONVERTED_ENGLISH
-FL1_1.MES;1;0x0;Y;B6 14 A7 11 2C 11 2C 10 4F 2C 10 C7 A9 10 07 AA 9B 40 2C 13 2C 18 20 00 B0 AD 22 70 69 63 5C 31 2D 31 2E 70 72 37 22 B2 14 B7 15 2C 11 2C 10 09 9B 40 2C 10 1E 2C 18 40 00 B7 13 2C 11 2C 22 61 6E 69 5C 31 2D 31 2E 61 6E 69 22 B7 15 2C 11 2C 17 A7 17 2C 10 98 2C 10 49 2C 10 C7 AA A9 17 ;"File header, seems to load the file ""pic\1-1.pr7"" and animation file ""ani\1-1.ani""";
-FL1_1.MES;2;0x5F;N;［女の人］あなたですね？・・・私を助けてくださったのは・・・。;[Woman] You? ... that helped me ...;
-FL1_1.MES;3;0x9D;Y;A6 AA;;
-FL1_1.MES;4;0x9F;N;［女の人］危ないところを助けていただきまして、どうもありがとうございます。わたしの名前はムーン・・・大神官に仕える御子です。;[Woman] Thank you very much for your help in the dangerous places. My name is Moon ... the Son who serves the Great Priest.;
-FL1_1.MES;5;0x11B;Y;A6 AA;;
-FL1_1.MES;6;0x11D;N;［ムーン］妹のミキと一緒にいるところをステロイドに襲われてしまって・・・;[Moon] When I was with my sister Miki, a steroid attacked me ...;
-FL1_1.MES;7;0x165;Y;A6 AA;;
-FL1_1.MES;8;0x167;N;［ムーン］えっ！・・・ミキの事を知っていらっしゃるのですか？・・・あの子のことですから、きっとあなたに失礼なふるまいをしたのでは・・・。;[Moon] Eh! ... do you know about Miki? ... Because of that child, I'm sure he was acting rudely ...;
-FL1_1.MES;9;0x1EF;Y;A6 AA;;
-FL1_1.MES;10;0x1F1;N;［ムーン］やはりそうでしたか・・・ミキは昔から動揺してる時と、気分の悪い時と、お腹がすいている時と、背中がかゆい時は、回りのことが見えなくなってしまうのです。;[Moon] After all ... Miki loses sight of her surroundings when she has been upset for a long time, when she feels sick, when she is hungry, and when her back is itchy. is.;
-FL1_1.MES;11;0x28F;Y;A6 AA;;
-FL1_1.MES;12;0x291;N;［ムーン］でも、あなたは何故こんな危険な所にいるんですか？;[Moon] But why are you in such a dangerous place?;
-FL1_1.MES;13;0x2CB;Y;A6 AA;;
-FL1_1.MES;14;0x2CD;N;［ムーン］・・・・・・・・・・・・。;;
-FL1_1.MES;15;0x2F1;Y;A6 AA;;
-FL1_1.MES;16;0x2F3;N;［ムーン］・・・・・・・・・・・・。;;
-FL1_1.MES;17;0x317;Y;A6 AA;;
-FL1_1.MES;18;0x319;N;［ムーン］・・・そうだったんですか。それではあなたもヨーコ様を探しているのですか。;[Moon] ... Is that so? Then are you looking for Yoko too?;
-FL1_1.MES;19;0x36B;Y;A6 AA;;
-FL1_1.MES;20;0x36D;N;［ムーン］わたしがステロイドにさらわれた時、最初に連れて行かれた洞窟にヨーコ様がいました。;;
-FL1_1.MES;21;0x3C7;Y;A6 AA;;
-FL1_1.MES;22;0x3C9;N;［ムーン］おそらくそこは、この山脈の北の壁にある洞窟だと思うんですが。わたしか連れて行かれる途中、北の山に近付いた時なんですけど・・・;[Moon] I think it's a cave on the north wall of this mountain range. It was when I approached the mountain in the north while I was being taken ...;
-FL1_1.MES;23;0x44F;Y;A6 AA;;
-FL1_1.MES;24;0x451;N;［ムーン］最初はまわりに山の岩肌しか見えなかったんですが、近付くにつれてうっすらと洞窟の入口が見えてきて・・・;[Moon] At first, I could see only the rocky surface of the mountain, but as I approached, I could see the entrance of the cave ...;
-FL1_1.MES;25;0x4BF;Y;A6 AA;;
-FL1_1.MES;26;0x4C1;N;［ムーン］あれはきっと何かの方法で、洞窟の入口が見えないようになっている洞窟なんだと思います。;[Moon] I think it's a cave where the entrance to the cave is hidden in some way.;
-FL1_1.MES;27;0x51F;Y;A6 AA;;
-FL1_1.MES;28;0x521;N;［ムーン］でも、ミキが持っている『魔法の眼鏡』があれば隠された洞窟の入口を見つけることが出来るはずです。;"[Moon], you should be able to find the hidden entrance to the cave with Miki's ""magic glasses"".";
-FL1_1.MES;29;0x589;Y;A6 AA;;
-FL1_1.MES;30;0x58B;N;［ムーン］でも・・・ミキの事だから、私の無事がわかるまで、何を話してもあなたには眼鏡を渡してくれないでしょう。;[Moon] But ... Miki, so no matter what you talk about, I won't give you your glasses until you know I'm okay.;
-FL1_1.MES;31;0x5F9;Y;A6 AA;;
-FL1_1.MES;32;0x5FB;N;［ムーン］かといって、わたしはいまミキの所まで行く体力がないし・・・;[Moon] But I don't have the physical strength to reach Miki ...;
-FL1_1.MES;33;0x63F;Y;A6 AA;;
-FL1_1.MES;34;0x641;N;［ムーン］そうそう、ミキは左のお尻に三角のほくろがあります。;[Moon] Yes, Miki has a triangle mole on her left hip.;
-FL1_1.MES;35;0x67D;Y;A6 AA;;
-FL1_1.MES;36;0x67F;N;［ムーン］これを知っているのは私だけですから、この事をあの子に言えばきっとわたしが無事だと気が付くでしょう。;[Moon] I'm the only one who knows this, so if you tell him about this, you'll surely realize that I'm safe.;
-FL1_1.MES;37;0x6EB;Y;A6 AA;;
-FL1_1.MES;38;0x6ED;N;［ムーン］ミキから眼鏡を受けとって、隠された洞窟を見つけてください。お願いします。;[Moon] Take glasses from Miki and find the hidden cave. Please.;
-FL1_1.MES;39;0x73F;Y;A6 AA;;
-FL1_1.MES;40;0x741;N;［ムーン］わたしは、近くの泉で傷を癒すことにします。どうか、あなたも気を付けて行ってください。;[Moon] I will heal the wound at a nearby fountain. Please be careful, too.;
-FL1_1.MES;41;0x79F;Y;A6 AA;;
-FL1_1.MES;42;0x7A1;Y;99 18 02 5D 2C 12 7D ;File footer.;
+FILENAME;ID;START_POS;IS_HEX;TEXT_ORIGINAL;TEXT_LITERAL_ENGLISH;TEXT_CONVERTED_ENGLISH;LINE_WIDTH
+FL1_1.MES;1;0x0;Y;B6 14 A7 11 2C 11 2C 10 4F 2C 10 C7 A9 10 07 AA 9B 40 2C 13 2C 18 20 00 B0 AD 22 70 69 63 5C 31 2D 31 2E 70 72 37 22 B2 14 B7 15 2C 11 2C 10 09 9B 40 2C 10 1E 2C 18 40 00 B7 13 2C 11 2C 22 61 6E 69 5C 31 2D 31 2E 61 6E 69 22 B7 15 2C 11 2C 17 A7 17 2C 10 98 2C 10 49 2C 10 C7 AA A9 17 ;"File header, seems to load the file ""pic\1-1.pr7"" and animation file ""ani\1-1.ani""";;99
+FL1_1.MES;2;0x5F;N;［女の人］あなたですね？・・・私を助けてくださったのは・・・。;[Woman] You? ... that helped me ...;;99
+FL1_1.MES;3;0x9D;Y;A6 AA;;;99
+FL1_1.MES;4;0x9F;N;［女の人］危ないところを助けていただきまして、どうもありがとうございます。わたしの名前はムーン・・・大神官に仕える御子です。;[Woman] Thank you very much for your help in the dangerous places. My name is Moon ... the Son who serves the Great Priest.;;99
+FL1_1.MES;5;0x11B;Y;A6 AA;;;99
+FL1_1.MES;6;0x11D;N;［ムーン］妹のミキと一緒にいるところをステロイドに襲われてしまって・・・;[Moon] When I was with my sister Miki, a steroid attacked me ...;;99
+FL1_1.MES;7;0x165;Y;A6 AA;;;99
+FL1_1.MES;8;0x167;N;［ムーン］えっ！・・・ミキの事を知っていらっしゃるのですか？・・・あの子のことですから、きっとあなたに失礼なふるまいをしたのでは・・・。;[Moon] Eh! ... do you know about Miki? ... Because of that child, I'm sure he was acting rudely ...;;99
+FL1_1.MES;9;0x1EF;Y;A6 AA;;;99
+FL1_1.MES;10;0x1F1;N;［ムーン］やはりそうでしたか・・・ミキは昔から動揺してる時と、気分の悪い時と、お腹がすいている時と、背中がかゆい時は、回りのことが見えなくなってしまうのです。;[Moon] After all ... Miki loses sight of her surroundings when she has been upset for a long time, when she feels sick, when she is hungry, and when her back is itchy. is.;;99
+FL1_1.MES;11;0x28F;Y;A6 AA;;;99
+FL1_1.MES;12;0x291;N;［ムーン］でも、あなたは何故こんな危険な所にいるんですか？;[Moon] But why are you in such a dangerous place?;;99
+FL1_1.MES;13;0x2CB;Y;A6 AA;;;99
+FL1_1.MES;14;0x2CD;N;［ムーン］・・・・・・・・・・・・。;;;99
+FL1_1.MES;15;0x2F1;Y;A6 AA;;;99
+FL1_1.MES;16;0x2F3;N;［ムーン］・・・・・・・・・・・・。;;;99
+FL1_1.MES;17;0x317;Y;A6 AA;;;99
+FL1_1.MES;18;0x319;N;［ムーン］・・・そうだったんですか。それではあなたもヨーコ様を探しているのですか。;[Moon] ... Is that so? Then are you looking for Yoko too?;;99
+FL1_1.MES;19;0x36B;Y;A6 AA;;;99
+FL1_1.MES;20;0x36D;N;［ムーン］わたしがステロイドにさらわれた時、最初に連れて行かれた洞窟にヨーコ様がいました。;;;99
+FL1_1.MES;21;0x3C7;Y;A6 AA;;;99
+FL1_1.MES;22;0x3C9;N;［ムーン］おそらくそこは、この山脈の北の壁にある洞窟だと思うんですが。わたしか連れて行かれる途中、北の山に近付いた時なんですけど・・・;[Moon] I think it's a cave on the north wall of this mountain range. It was when I approached the mountain in the north while I was being taken ...;;99
+FL1_1.MES;23;0x44F;Y;A6 AA;;;99
+FL1_1.MES;24;0x451;N;［ムーン］最初はまわりに山の岩肌しか見えなかったんですが、近付くにつれてうっすらと洞窟の入口が見えてきて・・・;[Moon] At first, I could see only the rocky surface of the mountain, but as I approached, I could see the entrance of the cave ...;;99
+FL1_1.MES;25;0x4BF;Y;A6 AA;;;99
+FL1_1.MES;26;0x4C1;N;［ムーン］あれはきっと何かの方法で、洞窟の入口が見えないようになっている洞窟なんだと思います。;[Moon] I think it's a cave where the entrance to the cave is hidden in some way.;;99
+FL1_1.MES;27;0x51F;Y;A6 AA;;;99
+FL1_1.MES;28;0x521;N;［ムーン］でも、ミキが持っている『魔法の眼鏡』があれば隠された洞窟の入口を見つけることが出来るはずです。;"[Moon], you should be able to find the hidden entrance to the cave with Miki's ""magic glasses"".";;99
+FL1_1.MES;29;0x589;Y;A6 AA;;;99
+FL1_1.MES;30;0x58B;N;［ムーン］でも・・・ミキの事だから、私の無事がわかるまで、何を話してもあなたには眼鏡を渡してくれないでしょう。;[Moon] But ... Miki, so no matter what you talk about, I won't give you your glasses until you know I'm okay.;;99
+FL1_1.MES;31;0x5F9;Y;A6 AA;;;99
+FL1_1.MES;32;0x5FB;N;［ムーン］かといって、わたしはいまミキの所まで行く体力がないし・・・;[Moon] But I don't have the physical strength to reach Miki ...;;99
+FL1_1.MES;33;0x63F;Y;A6 AA;;;99
+FL1_1.MES;34;0x641;N;［ムーン］そうそう、ミキは左のお尻に三角のほくろがあります。;[Moon] Yes, Miki has a triangle mole on her left hip.;;99
+FL1_1.MES;35;0x67D;Y;A6 AA;;;99
+FL1_1.MES;36;0x67F;N;［ムーン］これを知っているのは私だけですから、この事をあの子に言えばきっとわたしが無事だと気が付くでしょう。;[Moon] I'm the only one who knows this, so if you tell him about this, you'll surely realize that I'm safe.;;99
+FL1_1.MES;37;0x6EB;Y;A6 AA;;;99
+FL1_1.MES;38;0x6ED;N;［ムーン］ミキから眼鏡を受けとって、隠された洞窟を見つけてください。お願いします。;[Moon] Take glasses from Miki and find the hidden cave. Please.;;99
+FL1_1.MES;39;0x73F;Y;A6 AA;;;99
+FL1_1.MES;40;0x741;N;［ムーン］わたしは、近くの泉で傷を癒すことにします。どうか、あなたも気を付けて行ってください。;[Moon] I will heal the wound at a nearby fountain. Please be careful, too.;;99
+FL1_1.MES;41;0x79F;Y;A6 AA;;;99
+FL1_1.MES;42;0x7A1;Y;99 18 02 5D 2C 12 7D ;File footer.;;99

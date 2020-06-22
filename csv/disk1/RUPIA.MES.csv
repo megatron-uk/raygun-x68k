@@ -1,0 +1,61 @@
+FILENAME;ID;START_POS;IS_HEX;TEXT_ORIGINAL;TEXT_LITERAL_ENGLISH;TEXT_CONVERTED_ENGLISH;LINE_WIDTH
+RUPIA.MES;1;0x0;Y;A9 10 07 AA 9D 08 02 75 12 3D 7B ;File header;;99
+RUPIA.MES;2;0x0B;N;［ルピア］さあ、がんばって。;[Rupia] Come on, do your best.;;99
+RUPIA.MES;3;0x27;Y;A6 AA;;;99
+RUPIA.MES;4;0x29;Y;7D 2C 9D 08 02 6F 12 3D 7B ;;;99
+RUPIA.MES;5;0x32;N;［ルピア］さあ、早く次の世界に行きましょう。;[Rupia] Let's go to the next world soon.;;99
+RUPIA.MES;6;0x5E;Y;A6 AA;;;99
+RUPIA.MES;7;0x60;Y;7D 2C 9D 08 02 71 12 3D 7B ;;;99
+RUPIA.MES;8;0x69;N;［ルピア］大神官が幽閉されている泉の側でこの水の鍵を使えば大神官を助けることが出来るんじゃない。;[Rupia] If you can use the key of this water on the side of the fountain where the Great Priest is imprisoned, you cannot help the Great Priest.;;99
+RUPIA.MES;9;0xC9;Y;A6 AA;;;99
+RUPIA.MES;10;0xCB;Y;7D 2C 9D 08 02 76 12 3D 7B ;;;99
+RUPIA.MES;11;0xD4;N;［ルピア］危険だって言われたけど東の方の洞窟にもいってみる？;[Rupia] I was told it was dangerous, but would you like to go to the cave in the east?;;99
+RUPIA.MES;12;0x110;Y;A6 AA;;;99
+RUPIA.MES;13;0x112;Y;7D 2C 9D 08 02 76 12 3D 7B ;;;99
+RUPIA.MES;14;0x11B;N;［ルピア］あのロームっ奴がわたし達を殺そうとしたに違いないわ。;[Rupia] That Rohm guy must have tried to kill us.;;99
+RUPIA.MES;15;0x159;Y;A6 AA;;;99
+RUPIA.MES;16;0x15B;Y;7D 2C 9D 08 02 6E 12 3D 7B ;;;99
+RUPIA.MES;17;0x164;N;［ルピア］さあ、エレベータの鍵はもらったしこの世界にはミリアはいないって言うしとっとと、先に進みましょう。;[Rupia] Now, I got the key to the elevator and there is no Milia in this world, so let's move on.;;99
+RUPIA.MES;18;0x1CE;Y;A6 AA;;;99
+RUPIA.MES;19;0x1D0;Y;7D 2C 9D 08 02 6D 12 3D 7B ;;;99
+RUPIA.MES;20;0x1D9;N;［ルピア］また、ソール・レイクに行く理由が出来ちゃったわね。;[Rupia] You've got another reason to go to Saul Lake again.;;99
+RUPIA.MES;21;0x215;Y;A6 AA;;;99
+RUPIA.MES;22;0x217;Y;7D 2C 9D 08 02 6C 12 3D 7B;;;99
+RUPIA.MES;23;0x220;N;［ルピア］さあ、ソール・レイクにいきましょう。;[Rupia] Let's go to Saul Lake.;;99
+RUPIA.MES;24;0x24E;Y;A6 AA;;;99
+RUPIA.MES;25;0x250;Y;7D 2C 9D 08 02 64 12 3D 7B ;;;99
+RUPIA.MES;26;0x259;N;［ルピア］とりあえず誰かいないか探してみましょうよ。;[Rupia] For the time being, let's search for someone.;;99
+RUPIA.MES;27;0x28D;Y;A6 AA;;;99
+RUPIA.MES;28;0x28F;Y;7D 2C 9D 08 02 60 12 3D 7B ;;;99
+RUPIA.MES;29;0x298;N;［ルピア］エレベータを通ってミリアの後を追いましょう。;[Rupia] Follow Milia through the elevator.;;99
+RUPIA.MES;30;0x2CE;Y;A6 AA;;;99
+RUPIA.MES;31;0x2D0;Y;7D 2C 9D 08 02 5B 12 3D 7B ;;;99
+RUPIA.MES;32;0x2D9;N;［ルピア］お城があった丘の湖にいきましょう。そこに、王女がいるはずよ。;[Rupia] Let's go to the lake on the hill where the castle used to be. There should be a princess there.;;99
+RUPIA.MES;33;0x31F;Y;A6 AA;;;99
+RUPIA.MES;34;0x321;Y;7D 2C 9D 08 02 59 12 3D 7B ;;;99
+RUPIA.MES;35;0x32A;N;［ルピア］さあ、早く洞窟の中に入りましょう。;[Rupia] Let's get into the cave quickly.;;99
+RUPIA.MES;36;0x356;Y;A6 AA;;;99
+RUPIA.MES;37;0x357;Y;7D 2C 9D 08 02 5D 12 3D 7B;;;99
+RUPIA.MES;38;0x361;N;［ルピア］いそいで、ミキの所まで戻りましょ。;[Rupia] Let's go back to Miki.;;99
+RUPIA.MES;39;0x38D;Y;A6 AA;;;99
+RUPIA.MES;40;0x38F;Y;7D 2C 9D 08 02 5F 12 3D 7B;;;99
+RUPIA.MES;41;0x398;N;［ルピア］とにかく今は北の山脈に行ってみた方がいいと思うわ。;[Rupia] Anyway, I think it's better to go to the northern mountains now.;;99
+RUPIA.MES;42;0x3D4;Y;A6 AA;;;99
+RUPIA.MES;43;0x3D6;Y;7D 2C 9D 08 02 63 12 3D 7B ;;;99
+RUPIA.MES;44;0x3DF;N;［ルピア］ねぇ、レイラが言っていたステロイドに連れて行かれた女の子ってもしかするとミリアじゃ・・・;[Rupia] Hey, a girl who was taken to the steroid that Layla said was probably Milia...;;99
+RUPIA.MES;45;0x441;Y;A6 AA;;;99
+RUPIA.MES;46;0x443;N;［ルピア］とにかく、北の山脈に行きましょうよ。;[Rupia] Anyway, let's go to the northern mountains.;;99
+RUPIA.MES;47;0x471;Y;A6 AA;;;99
+RUPIA.MES;48;0x473;Y;7D 2C 9D 08 02 62 12 3D 7B;;;99
+RUPIA.MES;49;0x47C;N;［ルピア］かわいそうにさっきの女の子はきっとお姉さんをステロイドにさらわれたのね。;[Rupia] The poor girl was kidnapped by her steroids.;;99
+RUPIA.MES;50;0x4CE;Y;A6 AA;;;99
+RUPIA.MES;51;0x4D0;Y;7D 2C 9D 08 02 5C 11 21 7B ;;;99
+RUPIA.MES;52;0x4D9;N;［ルピア］まずは、スピアの言っていた西の丘に行って大神官のヨーコって人にあわなくっちゃね。;Rupia] First of all, I have to go to the hill on the west, which Spear said, and meet Yoko, the Great Priest.;;99
+RUPIA.MES;53;0x533;Y;A6 AA;;;99
+RUPIA.MES;54;0x535;Y;7D 2C 9D 08 02 58 12 3D 7B ;;;99
+RUPIA.MES;55;0x53E;N;［ルピア］大神官を探す前にシェリーが言ってた西の洞窟にいってみない。;[Rupia] Don't go to the cave in the west that Sherry said before looking for the Great Priest.;;99
+RUPIA.MES;56;0x582;Y;A6 AA;;;99
+RUPIA.MES;57;0x584;Y;7D 2C 7B ;;;99
+RUPIA.MES;58;0x587;N;［ルピア］さあ、がんばっていきましょう。;[Rupia] Let's do our best.;;99
+RUPIA.MES;59;0x5AF;Y;A6 AA;;;99
+RUPIA.MES;60;0x5B1;Y;7D 7D;File footer;;99

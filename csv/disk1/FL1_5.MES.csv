@@ -1,64 +1,64 @@
-FILENAME;ID;START_POS;IS_HEX;TEXT_ORIGINAL;TEXT_LITERAL_ENGLISH;TEXT_CONVERTED_ENGLISH
-FL1_5.MES;1;0x0;Y;B6 13 B2 13 A7 11 2C 11 2C 10 4F 2C 10 C7 A9 10 07 AA 9B 40 2C 13 2C 18 20 00 B0 AD 22 70 69 63 5C 31 2D 35 61 2E 70 72 37 22 B2 14 B7 15 2C 11 2C 10 09 9B 40 2C 10 1E 2C 18 40 00 B7 13 2C 11 2C 22 61 6E 69 5C 31 2D 35 61 2E 61 6E 69 22 B7 15 2C 11 2C 17 A7 17 2C 10 98 2C 10 49 2C 10 C7 AA A9 17 ;"File header which includes references to the image file ""pic\1-5a.pr7"" and the animation file ""ani\1-5a.ani"". These appear to be the first image you see of “Sherri”, the green haired girl who appears just after the introductory animation sequence.";
-FL1_5.MES;2;0x63;N;［シェリー］キャー！ステロイド！だめだめ！あたしなんか食べたって美味しくないわよ！;[Sherry] Car! steroid! no no! It's not delicious to eat me!;
-FL1_5.MES;3;0xB5;Y;A6 AA;;
-FL1_5.MES;4;0xB7;N;［シェリー］ほら、胸だってこんなに小さいし、おしりだって２つにしか割れていないし・・・。;[Sherry] You see, the chest is so small, and the ass is only broken in two ...;
-FL1_5.MES;5;0x10F;Y;A6 AA;;
-FL1_5.MES;6;0x111;N;［シェリー］えっ！・・・ちがうの？・・・でも・・・嘘よ、その目は嘘をついている目だわ！;[Sherry] Eh! ···No? ... But ... Lie, those eyes are lying!;
-FL1_5.MES;7;0x167;Y;A6 AA;;
-FL1_5.MES;8;0x169;Y;B2 13 9B 40 2C 13 2C 18 20 00 B0 AD 22 70 69 63 5C 31 2D 35 2E 70 72 37 22 B2 14 B7 15 2C 11 2C 10 09 9B 40 2C 10 1E 2C 18 40 00 B7 13 2C 11 2C 22 61 6E 69 5C 31 2D 35 2E 61 6E 69 22 B7 15 2C 11 2C 17 A9 17 AA ;"This block loads the image file ""pic\1-5.pr7"" and the animation file ""ani\1-5.ani"". This is the second image of Sherri where she has her hands on the rock and pointing her, erm, buttocks towards you.";
-FL1_5.MES;9;0x1AF;N;［シェリー］助けて！・・・助けてくれるのなら、何でもするから！ほら、こんなポーズだってしちゃうんだから！;[Sherry] Help me! ... I will do anything to help you! You know, I'll pose like this!;
-FL1_5.MES;10;0x217;Y;A6 AA;;
-FL1_5.MES;11;0x219;N;［シェリー］え！？本当にステロイドじゃないの？・・・本当の本当に？;[Sherry] Eh! ? Isn't it really a steroid? ... really really?;
-FL1_5.MES;12;0x25B;Y;A6 AA;;
-FL1_5.MES;13;0x25D;N;［シェリー］やだ、バカ・・・こんな格好を私にさせて・・・えっち。;[Sherry] No, stupid ... let me look like this ...;
-FL1_5.MES;14;0x29D;Y;A6 AA;;
-FL1_5.MES;15;0x29F;N;［シェリー］えっ、ここ？・・・ここは、フィール王国よ。でも、王国が本当にあったのはもう１００年も前の話で今はその姿もないけれどね;[Sherry] Here? ... This is the Feel Kingdom. But it was 100 years ago that the kingdom really existed, and now it doesn't even exist.;
-FL1_5.MES;16;0x321;Y;A6 AA;;
-FL1_5.MES;17;0x323;N;［シェリー］えっ、なんで王国がなくなったのかって？あなたって本当に何も知らない人なのね。;[Sherry] Well, why did the kingdom disappear? You really don't know anything.;
-FL1_5.MES;18;0x37B;Y;A6 AA;;
-FL1_5.MES;19;0x37D;N;［シェリー］いいわ、特別に教えてあげる・・・私のこんなぽーずを見れて、その上、この国の事を教えてもらえるなんて、あなたって本当にラッキーだわ。;[Sherry] No, I'll tell you something special ... You're really lucky to be able to look at this kind of page and tell me about this country.;
-FL1_5.MES;20;0x40B;Y;A6 AA;;
-FL1_5.MES;21;0x40D;N;［シェリー］ここから南にいくとこだかい丘があるわ。その丘の上にある湖のほとりにそれは奇麗な純白のお城があったの。;[Sherry] There is a huge hill going south from here. On the shore of the lake on the hill was a beautiful white castle.;
-FL1_5.MES;22;0x47D;Y;A6 AA;;
-FL1_5.MES;23;0x47F;N;［シェリー］ここのまわりは高い山に囲まれてて、王国の人は誰もあの山を越えられなかったの。;[Sherry] Surrounded by high mountains, no one in the kingdom could cross that mountain.;
-FL1_5.MES;24;0x4D7;Y;A6 AA;;
-FL1_5.MES;25;0x4D9;N;［シェリー］だから、あの山の向こうがどうなっているのかは誰も知らないわ。;[Sherry] So no one knows what's going on over the mountain.;
-FL1_5.MES;26;0x521;Y;A6 AA;;
-FL1_5.MES;27;0x523;N;［シェリー］でも、豊かな土地に恵まれてたおかげで王国の人々の生活はとっても豊かだったわ。;[Sherry] But, thanks to the rich land, the lives of the people of the kingdom were very rich.;
-FL1_5.MES;28;0x57B;Y;A6 AA;;
-FL1_5.MES;29;0x57D;N;［シェリー］ところが、ある年を境に突然に土地が痩せてしまって、作物がとれなくなってしまったの。;[Sherry] However, after a certain year, the land suddenly became thin and I couldn't get enough crops.;
-FL1_5.MES;30;0x5DB;Y;A6 AA;;
-FL1_5.MES;31;0x5DD;N;［シェリー］そのことに頭を痛めた王女カーナ様は大神官のヨーコ様に御相談なされ、あの山の向こうに使者を送ることにしたの。;[Sherry] Princess Kana, who had a headache in that regard, consulted with the great priest, Yoko, and decided to send a messenger over the mountain.;
-FL1_5.MES;32;0x653;Y;A6 AA;;
-FL1_5.MES;33;0x655;N;［シェリー］もし、山の向こうに街があればなんとか食料を得ることが出来ると思ったのね。;[Sherry] I thought I could manage to get food if there was a town over the mountains.;
-FL1_5.MES;34;0x6A9;Y;A6 AA;;
-FL1_5.MES;35;0x6AB;N;［シェリー］でも、１カ月たっても２カ月たっても使者は帰ってこなかったわ。;[Sherry] But even after a month or two, the messenger never returned.;
-FL1_5.MES;36;0x6F3;Y;A6 AA;;
-FL1_5.MES;37;0x6F5;N;［シェリー］そのかわり、いままで見たこともないような化物が山の向こうから現れるようになったの。・・・それが、ステロイドよ。;[Sherry] Instead, things like the ones I've never seen come to emerge from the other side of the mountain. ... that's a steroid.;
-FL1_5.MES;38;0x76F;Y;A6 AA;;
-FL1_5.MES;39;0x771;N;［シェリー］ステロイドは、街をめちゃくちゃに壊して、女の子を次々とさらっていったわ;[Sherry] Steroids messed up the city and kidnapped girls one after another.;
-FL1_5.MES;40;0x7C5;Y;A6 AA;;
-FL1_5.MES;41;0x7C7;N;［シェリー］人々は、ステロイドから身を守るために街を捨て、息をひそめて暮らしているの。;[Sherry] People are abandoning the city to protect themselves from steroids, and they live quietly.;
-FL1_5.MES;42;0x81D;Y;A6 AA;;
-FL1_5.MES;43;0x81F;N;［シェリー］そんな訳で、王国はなくなっちゃったのよ。でも、そんな事も知らないなんてあなたはどこから、何をしに来たの？;[Sherry] That's why the kingdom is gone. But where did you come from and you didn't know that?;
-FL1_5.MES;44;0x893;Y;A6 AA;;
-FL1_5.MES;45;0x895;N;［シェリー］・・・・・・・・・・・・。;;
-FL1_5.MES;46;0x8BB;Y;A6 AA;;
-FL1_5.MES;47;0x8BD;N;［シェリー］・・・・・・・・・・・・。;;
-FL1_5.MES;48;0x8E3;Y;A6 AA;;
-FL1_5.MES;49;0x8E5;N;［シェリー］ふーん・・・そうだったんだ。ステロイドにさらわれちゃった彼女を探してるんだ。それで、ステロイドのふりをしてるわけね。;[Sherry] Hmm ... it was. I'm looking for her kidnapped by steroids. So you're pretending to be a steroid.;
-FL1_5.MES;50;0x965;Y;A6 AA;;
-FL1_5.MES;51;0x967;N;［シェリー］そうそう、王女のカーナ様には特別な力があって、未来や過去を見ることが出来るって聞いたことがあるわ。;[Sherry] Yeah, I've heard that Princess Khana has a special power and can see the future and the past.;
-FL1_5.MES;52;0x9D5;Y;A6 AA;;
-FL1_5.MES;53;0x9D7;N;［シェリー］え？カーナ様の居場所？・・・それは大神官のヨーコ様が知っているわ。カーナ様に会えば何か解るかも知れないわよ。;[Sherry] Eh? Kana's whereabouts? ... Yoko, who is a great priest, knows that. You may find something if you meet Kana.;
-FL1_5.MES;54;0xA4F;Y;A6 AA;;
-FL1_5.MES;55;0xA51;N;［シェリー］でもその前に、ここの西の洞窟の泉に行くといいわ・・・あなたにとって、きっと役に立つ泉になるでしょうから・・・。;[Sherry] But before that, I'd like to go to the cave fountain in the west here ... it will surely be useful for you ...;
-FL1_5.MES;56;0xACB;Y;A6 AA;;
-FL1_5.MES;57;0xACD;N;［シェリー］こんなポーズで嘘をつくはずがないでしょう？・・・え？ポーズは関係ないって？;[Sherry] Can't you lie in this pose? ···e? Does the pose matter?;
-FL1_5.MES;58;0xB23;Y;A6 AA;;
-FL1_5.MES;59;0xB25;N;［シェリー］さてと、あんまり長い間この辺でうろうろしてると今度は本当にステロイドにさらわれちゃうわ。;[Sherry] Well, if you wander around here for so long, you'll be really kidnapped by steroids.;
-FL1_5.MES;60;0xB89;Y;A6 AA;;
-FL1_5.MES;61;0xB8B;N;［シェリー］それじゃあ、わたしもそろそろいくわね。バイバイ。;[Sherry] Then, I'm about to go. Bye bye.;
-FL1_5.MES;62;0xBC7;Y;A6 AA;;
-FL1_5.MES;63;0xBC9;Y;99 18 02 58 2C 12 B7 15 2C 11 2C 10 09 7D ;File footer.;
+FILENAME;ID;START_POS;IS_HEX;TEXT_ORIGINAL;TEXT_LITERAL_ENGLISH;TEXT_CONVERTED_ENGLISH;LINE_WIDTH
+FL1_5.MES;1;0x0;Y;B6 13 B2 13 A7 11 2C 11 2C 10 4F 2C 10 C7 A9 10 07 AA 9B 40 2C 13 2C 18 20 00 B0 AD 22 70 69 63 5C 31 2D 35 61 2E 70 72 37 22 B2 14 B7 15 2C 11 2C 10 09 9B 40 2C 10 1E 2C 18 40 00 B7 13 2C 11 2C 22 61 6E 69 5C 31 2D 35 61 2E 61 6E 69 22 B7 15 2C 11 2C 17 A7 17 2C 10 98 2C 10 49 2C 10 C7 AA A9 17 ;"File header which includes references to the image file ""pic\1-5a.pr7"" and the animation file ""ani\1-5a.ani"". These appear to be the first image you see of “Sherri”, the green haired girl who appears just after the introductory animation sequence.";;99
+FL1_5.MES;2;0x63;N;［シェリー］キャー！ステロイド！だめだめ！あたしなんか食べたって美味しくないわよ！;[Sherry] Car! steroid! no no! It's not delicious to eat me!;;99
+FL1_5.MES;3;0xB5;Y;A6 AA;;;99
+FL1_5.MES;4;0xB7;N;［シェリー］ほら、胸だってこんなに小さいし、おしりだって２つにしか割れていないし・・・。;[Sherry] You see, the chest is so small, and the ass is only broken in two ...;;99
+FL1_5.MES;5;0x10F;Y;A6 AA;;;99
+FL1_5.MES;6;0x111;N;［シェリー］えっ！・・・ちがうの？・・・でも・・・嘘よ、その目は嘘をついている目だわ！;[Sherry] Eh! ···No? ... But ... Lie, those eyes are lying!;;99
+FL1_5.MES;7;0x167;Y;A6 AA;;;99
+FL1_5.MES;8;0x169;Y;B2 13 9B 40 2C 13 2C 18 20 00 B0 AD 22 70 69 63 5C 31 2D 35 2E 70 72 37 22 B2 14 B7 15 2C 11 2C 10 09 9B 40 2C 10 1E 2C 18 40 00 B7 13 2C 11 2C 22 61 6E 69 5C 31 2D 35 2E 61 6E 69 22 B7 15 2C 11 2C 17 A9 17 AA ;"This block loads the image file ""pic\1-5.pr7"" and the animation file ""ani\1-5.ani"". This is the second image of Sherri where she has her hands on the rock and pointing her, erm, buttocks towards you.";;99
+FL1_5.MES;9;0x1AF;N;［シェリー］助けて！・・・助けてくれるのなら、何でもするから！ほら、こんなポーズだってしちゃうんだから！;[Sherry] Help me! ... I will do anything to help you! You know, I'll pose like this!;;99
+FL1_5.MES;10;0x217;Y;A6 AA;;;99
+FL1_5.MES;11;0x219;N;［シェリー］え！？本当にステロイドじゃないの？・・・本当の本当に？;[Sherry] Eh! ? Isn't it really a steroid? ... really really?;;99
+FL1_5.MES;12;0x25B;Y;A6 AA;;;99
+FL1_5.MES;13;0x25D;N;［シェリー］やだ、バカ・・・こんな格好を私にさせて・・・えっち。;[Sherry] No, stupid ... let me look like this ...;;99
+FL1_5.MES;14;0x29D;Y;A6 AA;;;99
+FL1_5.MES;15;0x29F;N;［シェリー］えっ、ここ？・・・ここは、フィール王国よ。でも、王国が本当にあったのはもう１００年も前の話で今はその姿もないけれどね;[Sherry] Here? ... This is the Feel Kingdom. But it was 100 years ago that the kingdom really existed, and now it doesn't even exist.;;99
+FL1_5.MES;16;0x321;Y;A6 AA;;;99
+FL1_5.MES;17;0x323;N;［シェリー］えっ、なんで王国がなくなったのかって？あなたって本当に何も知らない人なのね。;[Sherry] Well, why did the kingdom disappear? You really don't know anything.;;99
+FL1_5.MES;18;0x37B;Y;A6 AA;;;99
+FL1_5.MES;19;0x37D;N;［シェリー］いいわ、特別に教えてあげる・・・私のこんなぽーずを見れて、その上、この国の事を教えてもらえるなんて、あなたって本当にラッキーだわ。;[Sherry] No, I'll tell you something special ... You're really lucky to be able to look at this kind of page and tell me about this country.;;99
+FL1_5.MES;20;0x40B;Y;A6 AA;;;99
+FL1_5.MES;21;0x40D;N;［シェリー］ここから南にいくとこだかい丘があるわ。その丘の上にある湖のほとりにそれは奇麗な純白のお城があったの。;[Sherry] There is a huge hill going south from here. On the shore of the lake on the hill was a beautiful white castle.;;99
+FL1_5.MES;22;0x47D;Y;A6 AA;;;99
+FL1_5.MES;23;0x47F;N;［シェリー］ここのまわりは高い山に囲まれてて、王国の人は誰もあの山を越えられなかったの。;[Sherry] Surrounded by high mountains, no one in the kingdom could cross that mountain.;;99
+FL1_5.MES;24;0x4D7;Y;A6 AA;;;99
+FL1_5.MES;25;0x4D9;N;［シェリー］だから、あの山の向こうがどうなっているのかは誰も知らないわ。;[Sherry] So no one knows what's going on over the mountain.;;99
+FL1_5.MES;26;0x521;Y;A6 AA;;;99
+FL1_5.MES;27;0x523;N;［シェリー］でも、豊かな土地に恵まれてたおかげで王国の人々の生活はとっても豊かだったわ。;[Sherry] But, thanks to the rich land, the lives of the people of the kingdom were very rich.;;99
+FL1_5.MES;28;0x57B;Y;A6 AA;;;99
+FL1_5.MES;29;0x57D;N;［シェリー］ところが、ある年を境に突然に土地が痩せてしまって、作物がとれなくなってしまったの。;[Sherry] However, after a certain year, the land suddenly became thin and I couldn't get enough crops.;;99
+FL1_5.MES;30;0x5DB;Y;A6 AA;;;99
+FL1_5.MES;31;0x5DD;N;［シェリー］そのことに頭を痛めた王女カーナ様は大神官のヨーコ様に御相談なされ、あの山の向こうに使者を送ることにしたの。;[Sherry] Princess Kana, who had a headache in that regard, consulted with the great priest, Yoko, and decided to send a messenger over the mountain.;;99
+FL1_5.MES;32;0x653;Y;A6 AA;;;99
+FL1_5.MES;33;0x655;N;［シェリー］もし、山の向こうに街があればなんとか食料を得ることが出来ると思ったのね。;[Sherry] I thought I could manage to get food if there was a town over the mountains.;;99
+FL1_5.MES;34;0x6A9;Y;A6 AA;;;99
+FL1_5.MES;35;0x6AB;N;［シェリー］でも、１カ月たっても２カ月たっても使者は帰ってこなかったわ。;[Sherry] But even after a month or two, the messenger never returned.;;99
+FL1_5.MES;36;0x6F3;Y;A6 AA;;;99
+FL1_5.MES;37;0x6F5;N;［シェリー］そのかわり、いままで見たこともないような化物が山の向こうから現れるようになったの。・・・それが、ステロイドよ。;[Sherry] Instead, things like the ones I've never seen come to emerge from the other side of the mountain. ... that's a steroid.;;99
+FL1_5.MES;38;0x76F;Y;A6 AA;;;99
+FL1_5.MES;39;0x771;N;［シェリー］ステロイドは、街をめちゃくちゃに壊して、女の子を次々とさらっていったわ;[Sherry] Steroids messed up the city and kidnapped girls one after another.;;99
+FL1_5.MES;40;0x7C5;Y;A6 AA;;;99
+FL1_5.MES;41;0x7C7;N;［シェリー］人々は、ステロイドから身を守るために街を捨て、息をひそめて暮らしているの。;[Sherry] People are abandoning the city to protect themselves from steroids, and they live quietly.;;99
+FL1_5.MES;42;0x81D;Y;A6 AA;;;99
+FL1_5.MES;43;0x81F;N;［シェリー］そんな訳で、王国はなくなっちゃったのよ。でも、そんな事も知らないなんてあなたはどこから、何をしに来たの？;[Sherry] That's why the kingdom is gone. But where did you come from and you didn't know that?;;99
+FL1_5.MES;44;0x893;Y;A6 AA;;;99
+FL1_5.MES;45;0x895;N;［シェリー］・・・・・・・・・・・・。;;;99
+FL1_5.MES;46;0x8BB;Y;A6 AA;;;99
+FL1_5.MES;47;0x8BD;N;［シェリー］・・・・・・・・・・・・。;;;99
+FL1_5.MES;48;0x8E3;Y;A6 AA;;;99
+FL1_5.MES;49;0x8E5;N;［シェリー］ふーん・・・そうだったんだ。ステロイドにさらわれちゃった彼女を探してるんだ。それで、ステロイドのふりをしてるわけね。;[Sherry] Hmm ... it was. I'm looking for her kidnapped by steroids. So you're pretending to be a steroid.;;99
+FL1_5.MES;50;0x965;Y;A6 AA;;;99
+FL1_5.MES;51;0x967;N;［シェリー］そうそう、王女のカーナ様には特別な力があって、未来や過去を見ることが出来るって聞いたことがあるわ。;[Sherry] Yeah, I've heard that Princess Khana has a special power and can see the future and the past.;;99
+FL1_5.MES;52;0x9D5;Y;A6 AA;;;99
+FL1_5.MES;53;0x9D7;N;［シェリー］え？カーナ様の居場所？・・・それは大神官のヨーコ様が知っているわ。カーナ様に会えば何か解るかも知れないわよ。;[Sherry] Eh? Kana's whereabouts? ... Yoko, who is a great priest, knows that. You may find something if you meet Kana.;;99
+FL1_5.MES;54;0xA4F;Y;A6 AA;;;99
+FL1_5.MES;55;0xA51;N;［シェリー］でもその前に、ここの西の洞窟の泉に行くといいわ・・・あなたにとって、きっと役に立つ泉になるでしょうから・・・。;[Sherry] But before that, I'd like to go to the cave fountain in the west here ... it will surely be useful for you ...;;99
+FL1_5.MES;56;0xACB;Y;A6 AA;;;99
+FL1_5.MES;57;0xACD;N;［シェリー］こんなポーズで嘘をつくはずがないでしょう？・・・え？ポーズは関係ないって？;[Sherry] Can't you lie in this pose? ···e? Does the pose matter?;;99
+FL1_5.MES;58;0xB23;Y;A6 AA;;;99
+FL1_5.MES;59;0xB25;N;［シェリー］さてと、あんまり長い間この辺でうろうろしてると今度は本当にステロイドにさらわれちゃうわ。;[Sherry] Well, if you wander around here for so long, you'll be really kidnapped by steroids.;;99
+FL1_5.MES;60;0xB89;Y;A6 AA;;;99
+FL1_5.MES;61;0xB8B;N;［シェリー］それじゃあ、わたしもそろそろいくわね。バイバイ。;[Sherry] Then, I'm about to go. Bye bye.;;99
+FL1_5.MES;62;0xBC7;Y;A6 AA;;;99
+FL1_5.MES;63;0xBC9;Y;99 18 02 58 2C 12 B7 15 2C 11 2C 10 09 7D ;File footer.;;

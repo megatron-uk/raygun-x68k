@@ -207,7 +207,7 @@ def patcher(script = None, data_dir = None, verbose = False):
 			# If hex - insert bytes
 			if line['script_ishex'].upper() == "Y":
 				if verbose:
-					print("%s - Hex bytes" % line['script_idx'])
+					print("%s - <hex>" % line['script_idx'])
 					
 				hex_bytes = line['script_orig'].rstrip().lstrip().split(' ')
 				line_text = []
