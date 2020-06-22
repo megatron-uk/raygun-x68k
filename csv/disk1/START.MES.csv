@@ -42,7 +42,7 @@ START.MES;40;0x94A;Y;C1;;;30
 START.MES;41;0x94B;N;ミリアと相談して俺達はここでこのステロイドを治すことにした;In consultation with Milia we decided to cure this steroid her;;30
 START.MES;42;0x987;Y;C1 A6 10 64 ;;;30
 START.MES;43;0x98B;Y;B2 13 A7 11 2C 11 2C 18 02 7F 2C 18 01 8F AA B0 AD 22 70 69 63 5C 6F 70 39 2E 70 72 37 22 B2 14 A6 18 01 2C B2 13 AA B6 14 B6 12 2C 10 13 B0 AD 22 70 69 63 5C 6F 70 61 2E 70 72 37 22 B2 14 9A 58 2C 10 64 9E 9D 58 11 21 7B A6 12 9A 58 2C 58 12 2D 7D A7 11 2C 10 96 2C 18 02 7F 2C 10 C7 AA B7 13 2C 11 2C 22 61 6E 69 5C 6F 70 2D 31 31 61 2E 61 6E 69 22 B7 15 2C 11 2C 17 A7 17 2C 10 98 2C 10 49 2C 10 C7 AA A9 17 ;"Loads images ""pic\op9.pr7”, ""pic\opa.pr7 and animation file ""ani\op-11a.ani. This is the animation of Milia talking to you over lunch/dinner – well, she has a spoon in her hand and there is a loaf of bread next to her. NOTE that after this section there is not a delimiter to the next text string!!!";;30
-START.MES;44;0xA14;N;［ミリア］あのステロイドの修理もあと、もうすこしね。;[Milia] I'll have to repair that steroid soon.;;30
+START.MES;44;0xA14;N;［ミリア］あのステロイドの修理もあと、もうすこしね。;[Milia] I'll have to repair that steroid soon.;;99
 START.MES;45;0xA48;Y;A6 AA A9 10 07 ;;;30
 START.MES;46;0xA4D;N;［ジョージ］ああ、もうほとんど修理は終ったよ。あとは、一度街に戻って制御装置を取り付ければ動くだろうな。;[George] Ah, almost all repairs are done. After that, if you go back to the city and install the control device, it will work.;;30
 START.MES;47;0xAB5;Y;A6 AA A9 17 ;;;30
