@@ -4,7 +4,7 @@
 
 text_lookup  = {
 
-	'|' : (0xC1,),			# The game treats the code 0xC1 as break, so this embeds a return character for us
+	'|' : (0xC1,),			# The game treats the code 0xC1 as linebreak and scrollup, so this embeds a return character and then shifts the immediate line up one row
 	' ' : (0x81, 0x40),
 	',' : (0x81, 0x43),
 	'.' : (0x81, 0x44),
@@ -15,6 +15,7 @@ text_lookup  = {
 	"'" : (0x81, 0x65),
 	'[' : (0x81, 0x6D),
 	']' : (0x81, 0x6E),
+	'%' : (0x81, 0x93),	# Used as a linebreak character in at least one data file
 	'0' : (0x82, 0x4F),
 	'1' : (0x82, 0x50),
 	'2' : (0x82, 0x51),

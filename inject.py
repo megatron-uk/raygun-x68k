@@ -127,9 +127,23 @@ def patcher(script = None, data_dir = None, verbose = False):
 					'script_orig' : fields[4],
 					'script_trans' : fields[5],
 					'script_final' : fields[6],
-					'script_line_width' : int(fields[7].replace('\n', ''))
+					'script_line_width' : int(fields[7].replace('\n', '')),
+					'script_row_size' : 0,
+					'script_linebreak' : '|'
 				}
 
+				# See if we have a maximum number of rows defined
+				try:
+					script_line['script_row_size'] = int(fields[8].replace('\n', ''))
+				except Exception as e:
+					pass
+				
+				# See if there is a special linebreak defined for this message
+				try:
+					script_line['script_linebreak'] = fields[9].replace('\n', '')
+				except Exception as e:
+					print(e)
+				
 				# Ensure that the file is valid and doesnt contain data for another game resource
 				if script_line['script_file'].lower() !=  script.lower():
 					print("ERROR: Error on line %s" % c)
@@ -203,6 +217,8 @@ def patcher(script = None, data_dir = None, verbose = False):
 	
 	supported_chars = text_lookup.keys()
 	for line in script_lines:
+		if verbose:
+			print("")
 		try:
 			# If hex - insert bytes
 			if line['script_ishex'].upper() == "Y":
@@ -233,25 +249,40 @@ def patcher(script = None, data_dir = None, verbose = False):
 				
 				new_line_text = ""
 				c = 0
+				total_rows = 1
+				linebreak = line['script_linebreak']
+				total_size = 0
 				for ch in line_text:
 					# If we reach the display limit of the line, embed a return
 					# and carry on with the next character
 					if (c % line['script_line_width'] == 0) and (c != 0):
-						new_line_text += "|"
+						c = 0
+						new_line_text += linebreak
+						total_rows += 1
 						# Skip a trailing space after a carriage return
 						if ch != " ":
 							# Add next character
 							new_line_text += ch
+							if ch == linebreak:
+								total_rows += 1
+								c = 0
 					else:
 						# Add next character
 						new_line_text += ch
+						if ch == linebreak:
+							total_rows += 1
+							c = 0
 					c += 1
+					
 				line_text = new_line_text
 				if verbose:
 					if line_type == "literal":	
 						print("%s - <raw> %s" % (line['script_idx'], line_text))
 					else:
 						print("%s - <ok!> %s" % (line['script_idx'], line_text))
+					print("%s - Rows: %s" % (line['script_idx'], total_rows))
+					#print("%s - Longest line: %s" % (line['script_idx'], longest_row))
+					print("%s - Total size: %s" % (line['script_idx'], len(new_line_text)))
 					
 				# Output the characters in 'line_text'
 				line_bytes = []
@@ -263,15 +294,26 @@ def patcher(script = None, data_dir = None, verbose = False):
 							b2 = text_lookup[c][1]
 							line_bytes.append(b2)
 					else:
+						print("")
 						print("ERROR: Unsupported character in output line %s!" % line['script_idx'])
 						print("The character was: [%s]" % c)
+						print("Line was: [%s]" % line)
 						return False
-						
+				
+				# Print warning if over x characters long
+				# Print warning if over y rows tall
+				if total_rows > line['script_row_size']:
+					print("")
+					print("WARNING: This script fragment has size problems on line %s" % (line['script_idx']))
+					print("The script is [%s] rows tall, more than allowed size [%s]" % (total_rows, line['script_row_size']))
+					print("Line was: [%s]" % line)
+				
 				#if verbose:
 				#	print("%s - [%s]" % (line['script_idx'], line_bytes))
 				
 				output_file.write(bytes(line_bytes))
 		except Exception as e:
+			print("")
 			print("ERROR: Unable to write line %s to output file" % line['script_idx'])
 			print("The error was: %s" % e)
 			print("The traceback was: %s" % traceback.format_exc())
